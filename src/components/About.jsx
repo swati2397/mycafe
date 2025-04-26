@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import aboutVideo from '../assets/aboutbg.mp4';
+import aboutVideo from '../assets/aboutbglow2.mp4';
 import '../styles/about.css';
 
 const About = () => {
