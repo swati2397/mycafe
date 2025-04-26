@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import aromaHeroVideo from '../assets/AromaHero.mp4';
+import aromaHeroVideo from '../assets/AROMAHERO.mp4';
 import '../styles/hero.css';
 
 const Hero = () => {
